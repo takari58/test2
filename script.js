@@ -171,7 +171,6 @@ const altitudeText = altitude !== null
 document.getElementById("coords").innerHTML = `
     緯度: ${userLat.toFixed(6)}<br>
     経度: ${userLng.toFixed(6)}<br>
-    高度: ${altitudeText}
 `;
 
     // 現在地マーカー更新
