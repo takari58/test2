@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+/* 地図 */
+#map {
+    height: 500px;
+    width: 90%;
+    margin: auto;
+    border: 2px solid black;
+}
+
+/* 結果 */
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: blue;
+}
+
+/*緯度、経度、高度表示*/
+#coords{
+    display:inline-block;
+    border:2px solid #333;
+    padding:5px 10px;
+    border-radius:20;
+    margin-top:10px;
+    font-size:14px;
+    background-color: antiquewhite;
+}
