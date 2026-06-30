@@ -19,7 +19,72 @@ const quizData = {
         { q: "開発者は電子情報技術科の学生である", a: true },
         { q: "JavaScriptは言語である", a: true },
         { q: "池がある？", a: false }
-    ]
+    ],
+    "蔵春閣":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
+    "東公園のSL":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
+    "諏訪神社":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
+    "新発田市役所":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
+    "王紋酒造":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
+    "五十公野公園":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
+    "カルチャーセンター":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
+    "新発田駅":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
+    "あやめの湯":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
+    "イクネス":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
+    "市民文化会館":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
+    "新発田歴史図書館":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
+    "菊水":[
+        { q: "開発者は電子情報技術科の学生である", a: true },
+        { q: "JavaScriptは言語である", a: true },
+        { q: "池がある？", a: false }
+    ],
 };
 
 // ===== URL取得 =====
